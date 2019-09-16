@@ -3,7 +3,7 @@ package sep_16;
 //Write a program to remove duplicates from an array in Java without using the Java Collection API.
 import java.util.Arrays;
 
-public class RemoveDupliacate<T> {
+public class RemoveDupliacate{
     private static int j = 0;
     static Integer remove(Integer arr[]) {
         Integer temp[] = new Integer[10];
